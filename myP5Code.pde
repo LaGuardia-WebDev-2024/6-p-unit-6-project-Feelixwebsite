@@ -12,6 +12,10 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
+  ellipse(196,131, 500,500)
+  ellipse(110,111, 100,50)
+  ellipse(287,107, 100,50)
+
 
   
 
