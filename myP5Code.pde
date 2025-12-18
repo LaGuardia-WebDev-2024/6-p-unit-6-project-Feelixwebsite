@@ -17,7 +17,6 @@ void draw(){
  
  //mouth
  strokeWeight(10)
- 
  fill(200,0,0)
   triangle(196,215, 159,258, 228,264, )
 
